@@ -12,7 +12,7 @@ The minimal initial project with React, Webpack and Babel
 ## Installation(using nom)
 
 * `git clone git@github.com:Tim810306/minimal-react-webpack-babel.git`
-* cd minimal-react-webpack-babel-setup
+* cd minimal-react-webpack-babel
 * npm install
 * npm start
 * visit `http://localhost:8080/`
